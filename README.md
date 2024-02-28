@@ -1,4 +1,4 @@
-# Problema1 - Cutiile si Prizonierii =====================================================================================
+# Problema1 - Cutiile si Prizonierii 
 -Informatii generale:
 O inchisoare este pe cale sa se inchida ,directorul le ofera prizonierilor o sansa sa fie eliberati ,numai daca fiecare
 prizonier isi gaseste numarul dintr-o cutie, fiindca numarul din cutie este aliatoriu si au un numar finit de incercari
@@ -10,10 +10,10 @@ Primul pas se va verifica daca toti prizonierii isi gasesc numarul,pentru a afla
 pas se vor afla toata ciclurile posibele prin care pot trece prizonierii.
 
 -Pasii de executare:
-1.Se introduce numarul de priznoieri.
-2.Pe baza la numarul de prizonieri se va pune in cutie un numar egal sau mai mic decat cel a prizonierilor
+1. Se introduce numarul de priznoieri.
+2. Pe baza la numarul de prizonieri se va pune in cutie un numar egal sau mai mic decat cel a prizonierilor
  
-# Problema2 - Numere Complexe Lungi ======================================================================================
+# Problema2 - Numere Complexe Lungi 
 -Informatii generale:
 In acest program se va calcula adunare si scaderea ,pana la intalnirea caracterului '0', dintre numerele complexe extrem 
 de lungi,pana la 1000 caracatere.
@@ -23,13 +23,13 @@ Se va extrage din fiecare sir partea reala si cea imaginara si se vor face calcu
 numarului.
 
 -Pasii de executare:
-1.Se va introduce numarul de carcatere.
-2.Se va introduce primul sir de numere.
-3.Se va introduce semnul de adunare sau scaderea.
-4.Se va introduce al doilea sir de numere.
-5.Se va afisa rezultatul si se revine la pasul 3 pana la introducerea caracterului '0'.
+1. Se va introduce numarul de carcatere.
+2. Se va introduce primul sir de numere.
+3. Se va introduce semnul de adunare sau scaderea.
+4. Se va introduce al doilea sir de numere.
+5. Se va afisa rezultatul si se revine la pasul 3 pana la introducerea caracterului '0'.
 
-# Problema3 - Transmisie Bruiata =========================================================================================
+# Problema3 - Transmisie Bruiata 
 -Informatii generale:
 In acet program se va putea codifica un sir de caractere prin doua metode si in acelas timp sa le poti decodifica. Prima
 codificare are la baza algoritmul "Columnar Transposition Chipher" iar al doilea are la baza permutari in sir si in codul
@@ -45,7 +45,7 @@ pe baza numarului cerut.
 2.Se va citi ce fel de Codificare/Decodifcare(Daca e CodificareA: se va citi si cuvantul cheie,
 daca e CodificareB se va citi numarul).
 
-# Problema4 - Car Dealer =================================================================================================
+# Problema4 - Car Dealer 
 -Informatii generale:
 In acest progrma se vor introduce un numar de masini avand la ele anumite tipuri de informatii ,unde pe baza unei cerinte
 se va afisa anumite informatii despre masinile date.
@@ -55,10 +55,10 @@ Fiecare data a masinei va fi stocata intr-o structura aparte,unde la nevoie va f
 informatiile din structura data,structurele si sirurile de caractere au fost alocate dinamic pentru a nu irosi memoria.
 
 -Pasii de executare:
-1.Se tasteza numarul de masini.
-2.Se introduce fiecare data despre masina.
+1. Se tasteza numarul de masini.
+2. Se introduce fiecare data despre masina.
 (ele sunt:<brandul>,<numarul de Inmatriculare>,<tipul motorului>,<consumul mediu><numarul de KM parcusi de masina>)
-3.Se introduce cerinta aleasa:
+3. Se introduce cerinta aleasa:
    'a' - Calculeaza totalulul de moatoare de fiecare tip si il afiseaza.
    'b' - Se calculeaza consumul total de combustibil si suma totală cheltuita pentru fiecare brand de masina.
    'c' - Se verifica daca masinele introduse au Nr.de inmatriculare corect format;
